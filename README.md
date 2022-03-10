@@ -1,14 +1,14 @@
 <br/>
 <p align="center">
-  <h3 align="center">Parking2GO</h3>
+  <h1 align="center">Parking2GO</h1>
 
   <p align="center">
     An Event Sourcing project for parking slots
     <br/>
     <br/>
-    <a href="https://github.com//parking2go/issues">Report Bug</a>
+    <a href="https://github.com/bobhonores/parking2go/issues">Report Bug</a>
     .
-    <a href="https://github.com//parking2go/issues">Request Feature</a>
+    <a href="https://github.com/bobhonores/parking2go/issues">Request Feature</a>
   </p>
 </p>
 
@@ -57,7 +57,7 @@ TBD
 
 ## Roadmap
 
-See the [open issues](https://github.com//parking2go/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/bobhonores/parking2go/issues) for a list of proposed features (and known issues).
 
 ### Creating A Pull Request
 
@@ -69,4 +69,4 @@ See the [open issues](https://github.com//parking2go/issues) for a list of propo
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com//parking2go/blob/main/LICENSE.md) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/bobhonores/parking2go/blob/main/LICENSE.md) for more information.
